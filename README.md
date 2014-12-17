@@ -1,6 +1,4 @@
-My-Grunt-Boilerplate
+sizmek-html5-template
 ====================
 
-This repo covers what we did in [this screencast](http://css-tricks.com/video-screencasts/130-first-moments-grunt/ "screencast"), plus a bit more.
-
-[![Dependency Status](https://www.versioneye.com/user/projects/544e0d079fc4d5a8f10000f8/badge.svg?style=flat)](https://www.versioneye.com/user/projects/544e0d079fc4d5a8f10000f8)
+This repo is a fork of Chris Coyier's My Grunt Boilerplate (Many thanks to Chris in showing Grunt isn't as scary as it sounds.) but using Sizmek's HTML5 template for quick banner creation.
