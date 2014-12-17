@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Beats HTML5 test 300x250</title>
+
+  <link rel="stylesheet" href="css/styles.css">
+  <script type="text/javascript" src="//ds.serving-sys.com/BurstingScript/EBLoader.js"></script>
+  <script type="text/javascript">
+  function initEB(){
+    if (!EB.isInitialized()) {
+      EB.addEventListener(EBG.EventName.EB_INITIALIZED, startAd);
+    }
+    else {
+      startAd();
+    }
+  }
+  
+  function startAd() {
+    document.getElementById("banner").style.visibility = "visible";
+  }
+  
+  function handleClickthroughButtonClick() {
+    EB.clickthrough();
+  }
+</script>
+
+</head>
+
+<body onload="initEB();">
+  <div id="ad">
+    <div id="banner">
+      <div class="label"><strong>HTML5 Standard Banner:</strong> 300x250</div>
+      <div class="buttons">
+        <button id="clickthroughButton" class="button clickthrough" onclick="javascript:handleClickthroughButtonClick();">ClickThrough</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/banner.min.js"></script>
+</body>
+
+</html>

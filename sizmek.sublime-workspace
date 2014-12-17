@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marcus",
+				"marcusSprite"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joeypadasian/Sites/sizmek-html5-template"
+	],
+	"file_history":
+	[
+		"/Users/joeypadasian/Sites/sizmek-html5-template/package.json",
+		"/System/Library/Displays/Overrides/DisplayVendorID-10ac/DisplayProductID-409c",
+		"/System/Library/Displays/Overrides/DisplayVendorID-10ac/DisplayProductID-4093",
+		"/System/Library/Displays/Overrides/DisplayProductID-4080",
+		"/System/Library/Displays/Overrides/DisplayProductID-a092",
+		"/Users/joeypadasian/Untitled-2.svg",
+		"/System/Library/Displays/Overrides/DisplayVendorID-daf/DisplayProductID-9c75",
+		"/Users/joeypadasian/Google Drive/Shamu/DE/970x250/childClass.as",
+		"/Users/joeypadasian/Desktop/300x250/HTML5/300x250Canvas.html",
+		"/Users/joeypadasian/Desktop/300x250/HTML5/300x250Canvas.js",
+		"/Users/joeypadasian/Google Drive/Celtra Android/GSAP Version/app.js",
+		"/Users/joeypadasian/Downloads/mercedes-benz_magazine_animated.svg",
+		"/Users/joeypadasian/Sites/html5cascade/Cascade-Custom.js",
+		"/Users/joeypadasian/Sites/html5cascade/Cascade.js",
+		"/Users/joeypadasian/Sites/html5cascade/Cascade-Custom.css",
+		"/Users/joeypadasian/Sites/html5cascade/Cascade.css",
+		"/Users/joeypadasian/Sites/o2_html5/index.html",
+		"/Users/joeypadasian/Sites/html5cascade/Cascade.html",
+		"/private/etc/apache2/httpd.conf",
+		"/Volumes/Studio-Google/Google/2.EMEA/2.Android2.0Brand/H2_2014/DIGITAL/MASTER_FOLDER/WORK_IN_PROGRESS/Mobile/Celtra/Javascript/policeman.js",
+		"/Volumes/Studio-Google/Google/2.EMEA/2.Android2.0Brand/H2_2014/DIGITAL/MASTER_FOLDER/WORK_IN_PROGRESS/Mobile/Celtra/Javascript/sari-lady.js",
+		"/private/etc/apache2/users/joeypadasian.conf",
+		"/private/etc/apache2/original/httpd.conf",
+		"/private/etc/apache2/original/extra/httpd-vhosts.conf",
+		"/private/etc/apache2/original/extra/httpd-userdir.conf",
+		"/Volumes/Studio-Google/Google/2.EMEA/2.Android2.0Brand/H2_2014/DIGITAL/MASTER_FOLDER/WORK_IN_PROGRESS/Mobile/Celtra/Javascript/party-kid.js",
+		"/Volumes/Studio-Google/Google/2.EMEA/2.Android2.0Brand/H2_2014/DIGITAL/MASTER_FOLDER/WORK_IN_PROGRESS/Mobile/Celtra/Javascript/speaker.js",
+		"/Volumes/Studio-Google/Google/2.EMEA/2.Android2.0Brand/H2_2014/DIGITAL/MASTER_FOLDER/WORK_IN_PROGRESS/Mobile/Celtra/Javascript/squirrel.js",
+		"/Volumes/Studio-Google/Google/2.EMEA/2.Android2.0Brand/H2_2014/DIGITAL/MASTER_FOLDER/WORK_IN_PROGRESS/Mobile/Celtra/Javascript/wheels.js",
+		"/celtraSpriteAnimation.js",
+		"/Users/joeypadasian/Desktop/Celtra Android/UI Elements/reset.svg",
+		"/Volumes/Studio-Google/Google/2.EMEA/5.NEXUS/2.VOLANTIS/H2_2014/DIGITAL/PRODUCTION_FOLDER/DESIGN/STANDARD/Amazon/On-site/300x250/childClass.as",
+		"/Volumes/Studio-Google/Google/2.EMEA/6.VOLANTIS/H2_2014/DIGITAL/PRODUCTION_FOLDER/DESIGN/MOBILE/STATIC/index.php",
+		"/Volumes/Studio-Google/Google/2.EMEA/6.VOLANTIS/H2_2014/DIGITAL/PRODUCTION_FOLDER/DESIGN/STANDARD/Amazon/banner.php",
+		"/Volumes/Studio-Google/Google/2.EMEA/6.VOLANTIS/H2_2014/DIGITAL/PRODUCTION_FOLDER/DESIGN/STANDARD/Amazon/index.php",
+		"/Volumes/Dreamweaver_SetUp/Import site settings (Dreamweaver).rtf",
+		"/Users/joeypadasian/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stroke=\"#00ff00\"",
+			"style=\"stroke:#000000;",
+			"DocumentRoot",
+			"        TweenMax.from(sariLady.node, 0.8, {x:420});\n        TweenMax.from(policeman.node, 0.8, {x:420, onComplete:doDance});"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"stroke=\"#00ff00\" style=\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sizmek.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"do shell script \"netstat -n|grep '.548'|tr -s ' '|"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
